@@ -113,11 +113,19 @@ In order to help with this problem, we need to have more fun.
 
 ### Summary of Problems
 
+I think that traditional academic training is dated. It doesn't easily scale, 
+is not suited for learners that want (and need) to learn by doing, and
+doesn't focus on the applied skills that are actually needed. 
 We have now summarized the main problems:
 
  1. Training and support for reproducible science is not scaling well
  2. Reproducible Practices and programming are wrapped into Computer Science and Data Science, but they are different.
  3. The culture is very academic and series.
+
+I think we need
+to do it differently, and while we cannot (and should not) totally restructure
+a university, we can start to develop initiatives that can grow in the same
+was as open source software. This is the open source lab.
 
 ## Goals
 
