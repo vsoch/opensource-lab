@@ -9,6 +9,10 @@ I want to identify patterns of release schedules that coincide with better softw
 What is the tone for issue boards and pull request discussion? Does the popularity (or various metrics about the software or users involved) matter?
 Does tone change over time? Why do we think that is?
 
+## Software in Scientific Domains
+
+Does the citation (frequency, kind) of citation for software differ across domains? E.g., is it more common to see a citation for software in a biology paper than music (I'd say yes). Can we identify domains that are not citing (maybe not using?) software?
+
 ## Software Lifecycle
 
 For any given open source software, what is it's lifecycle? How do we know (can we predict) if it will take off? Is it common to have more or fewer maintainers or contributors?
