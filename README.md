@@ -7,6 +7,11 @@ This is where I will keep notes about my vision for an opensource lab.
 The rationale for such an effort is based on my experience as a graduate student
 and open source software engineer. You can read about this in [background.md](background.md).
 
+## Research
+
+There are a set of interesting projects that I'd want to do to better understand open source and generally how individuals interact with software
+and one another during software development. Read about them in [research](research.md)
+
 ## Problems
 
 ### 1. Training in Reproducible Science
@@ -142,12 +147,3 @@ This is a brief list of tools that I think are necessary to get started.
 
  1. An open source "helpme" command line tool to submit questions to a shared discussion and question area. The best idea so far is integration with the [Cyber Infrastructure discourse board](https://ask.cyberinfrastructure.org/). Using a tool like [helpme](https://www.github.com/vsoch/helpme) I should be able to quickly ask, or answer questions.
  2. An interface akin to CodeStepByStep.com that asks (and quizzes) simple command line or job manager questions. There are no courses to sign up for, and it's just a fun way to spend time.
-
- and help the student to learn and make progress with their research to whatever degree is appropriate.
- 4.
-
-
-the reality of this
-need to scale, and the method by which it is done, is a clear
-
-
